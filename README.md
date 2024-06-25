@@ -1,112 +1,66 @@
-# Cronograma de Aulas
+# Plano de estudo
 
-## 05/03/2024
-- Não Haverá Aula
-
-## 07/03/2024 - [Introdução](/1-introducao/index.md)
+## Introdução - Primeira parte
 - Apresentação da disciplina / Introdução a algoritmos e estruturas de dados / Complexidade Local / Busca em lista linear ordenada e não ordenada (Alocação sequencial)
 
-## 12/03/2024 - Melhor Caso e Pior Caso
+## Melhor Caso e Pior Caso
 - Complexidade Local / Melhor caso, pior caso / Busca em lista linear ordenada e não ordenada (Alocação sequencial) / Ordenação por inserção / Análise assintótica
 
-## 14/03/2024 - Análise assintótica
+## Análise assintótica
 - Análise assintótica / Complexidade média
 
-## 19/03/2024 - Divisão e conquista
+## Divisão e conquista
 - Divisão e conquista / Análise de complexidade do mergesort e do quicksort
 
-## 21/03/2024 - Listas
+## Listas
 - Listas encadeadas, Pilhas, Filas, Deques, Lista Duplamente Encadeadas
 
-## 22/03/2024 - Ordenação em tempo linear
-- Ordenação em Tempo Linear - Aula Extra [Reposição]
+## Ordenação em tempo linear
+- Ordenação em Tempo Linear
 
-## 26/03/2024 - Recorrência e Recursividade
+## Recorrência e Recursividade
 - Equações de recorrência e complexidade de algoritmos recursivos
 
-## 02/04/2024
+## Recorrência e Recursividade
 - Equações de recorrência e complexidade de algoritmos recursivos
 
-## 04/04/2024
+## Recorrência e Recursividade
 - Equações de recorrência e complexidade de algoritmos recursivos
 
-## 05/04/2024 - Estatística de ordem
-- Estatísticas de ordem - Aula Extra [Reposição]
+## Estatística de ordem
+- Estatísticas de ordem 
 
-## 09/04/2024
-- Exercícios e Dúvidas
+## Introdução a Árvores - Segunda parte
 
-## 11/04/2024
-- 1ª avaliação
+## Lista de Prioridades
+- Heap binária e heapsort
 
-## 16/04/2024
-- Introdução a Árvores
+## Análise amortizada
 
-## 18/04/2024
-- Lista de Prioridades (heap binária e heapsort)
+## Árvore Binária de Busca
 
-## 19/04/2024
-- Análise amortizada - Aula Extra [Reposição]
+## Árvore AVL
 
-## 23/04/2024
-- Árvore Binária de Busca
+## Árvore Rubro-Negra
 
-## 25/04/2024
-- Árvore AVL
+## Árvore Rubro-Negra
 
-## 30/04/2024
-- Árvore Rubro-Negra
+## Árvore B
 
-## 02/05/2024
-- Árvore Rubro-Negra
+## Introdução a Grafos - Terceira parte
+- Conceitos Fundamentais, Estruturas de Dados
 
-## 07/05/2024
-- Árvore B
+## Busca em profundidade
 
-## 09/05/2024
-- Exercícios e Dúvidas
+## Algoritmo guloso – árvore geradora mínima
 
-## 14/05/2024
-- 2ª Avaliação
+## Programação dinâmica
 
-## 16/05/2024
-- Introdução a Grafos - Conceitos Fundamentais, Estruturas de Dados
+## Caminho mais curto
 
-## 21/05/2024
-- Busca em profundidade
+## Complexidade de problemas
+- Problemas NP-completos
 
-## 23/05/2024
-- Algoritmo guloso – árvore geradora mínima
+## Backtracking
 
-## 24/05/2024
-- Programação dinâmica - Aula Extra [Reposição]
-
-## 28/05/2024
-- Caminho mais curto
-
-## 04/06/2024
-- Complexidade de problemas - problemas NP-completos
-
-## 06/06/2024
-- Complexidade de problemas - problemas NP-completos
-
-## 11/06/2024
-- Backtracking
-
-## 13/06/2024
-- Backtracking / Branch-and-bound (entrega do trabalho dia 15/06)
-
-## 18/06/2024
-- Branch-and-bound
-
-## 20/06/2024
-- Exercícios e dúvidas
-
-## 25/06/2024
-- 3ª avaliação
-
-## 27/06/2024
-- Entrega de resultados - exercícios e dúvidas
-
-## 02/07/2024
-- Avaliação de reposição
+## Branch-and-bound
